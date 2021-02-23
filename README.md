@@ -1,0 +1,2 @@
+# FactoryMethod
+Project of study
